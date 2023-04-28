@@ -1,0 +1,26 @@
+.header {
+  font-size: 24px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.refreshing {
+  margin-left: 20px;
+  transition: 1s;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: end;
+}
+
+.button {
+  border: none;
+  padding: 20px;
+  cursor: pointer;
+  transition: .3s;
+}

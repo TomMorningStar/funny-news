@@ -1,0 +1,36 @@
+.comment {
+  margin: 15px 0;
+  padding: 5px;
+  font-size: 26px;
+}
+
+.flex {
+  display: flex;
+}
+
+.text {
+  font-size: 22px;
+}
+
+.authorTitle {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.author {
+  font-size: 26px;
+  color: #5d6875;
+  font-weight: 600;
+}
+
+.loading {
+  font-size: 50px;
+  margin: 30px 0;
+}
+
+
+
+.time {
+  color: #a7b7c2;
+  font-size: 18px;
+}
