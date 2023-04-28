@@ -6,5 +6,5 @@ the following steps will be required to start the project:
 
 <ol>
   <li>npm install</li>
-  <li>npm dev</li>
+  <li>npm run dev</li>
 </ol>
